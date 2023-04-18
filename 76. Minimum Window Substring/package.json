@@ -1,0 +1,14 @@
+{
+  "name": "76.-minimum-window-substring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "minimumWindowSubstring.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
